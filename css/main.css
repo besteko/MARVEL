@@ -43,7 +43,7 @@ justify-content: space-evenly;
     }
 
 .imgBox{
-    background-image: url(./images2/arkaplanson.jpg) ;
+    background-image: url(./images2/background_image.jpg) ;
     margin-top: 00.3rem;
     background-size: cover;
     height: 100vh;
@@ -78,14 +78,14 @@ justify-content: space-evenly;
 
     
   .cardfirst{
-    background-image: url(./images2/hulközel.jpg);
+    background-image: url(./images2/hulk_.jpg);
   }
   .cardsecond{
-    background-image: url(./images2/captancaptan2.jpg);
+    background-image: url(./images2/captainamerica.jpg);
 
   }
   .cardthird{
-    background-image: url(./images2/ironmanöz.jpg);
+    background-image: url(./images2/ironman_.jpg);
   }
  
   .imgBox .card .title{
